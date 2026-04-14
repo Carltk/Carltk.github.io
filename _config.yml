@@ -1,0 +1,15 @@
+title: Carl Kamper
+description: Senior Software Engineer — Fuel & Fleet Management, Embedded Systems, AI Tooling
+theme: minima
+
+author:
+  name: Carl Kamper
+  email: carl@carlk.org
+
+github_username: Carltk
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
