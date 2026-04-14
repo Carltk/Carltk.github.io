@@ -5,10 +5,9 @@ permalink: /cv/
 ---
 # Carl Kamper
 
-**Phone:** +61 (0)402 841 549
 **Email:** carl@carlk.org
 **GitHub:** [github.com/Carltk](https://github.com/Carltk)
-
+**Location:** Sydney/Australia
 ---
 
 ## Summary
@@ -139,6 +138,7 @@ Selected repositories at [github.com/Carltk](https://github.com/Carltk):
 
 - **[mcp-accessdb-go](https://github.com/Carltk/mcp-accessdb-go)** — Go MCP server providing AI assistant access to legacy Access97 databases; bridges 30-year-old data infrastructure with modern LLM tooling.
 - **[mcp-server-access-mdb-with-access97](https://github.com/Carltk/mcp-server-access-mdb-with-access97)** — Python MCP server supporting both modern Access/SQLite and legacy Access97 formats.
+
 ---
 
 ## Education
@@ -150,4 +150,4 @@ Selected repositories at [github.com/Carltk](https://github.com/Carltk):
 
 ## Interests
 
-Cycling, skiing, hiking, snorkelling, half marathon running, ocean swimming, weight training, nutrition, yoga, electronics and personal technology projects, motorcycling.
+Cycling, skiing, hiking, snorkelling, weight training, nutrition, yoga, electronics and personal technology projects, motorcycling.
