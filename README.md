@@ -32,7 +32,6 @@ to embedded firmware and PCB design.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [mcp-accessdb-go](https://github.com/Carltk/mcp-accessdb-go) | MCP server in Go — LLM access to MS Access databases         |
 | [mcp-server-access-mdb-with-access97](https://github.com/Carltk/mcp-server-access-mdb-with-access97) | Python MCP server — Access/SQLite with legacy Access97 support |
-| [TwoWireViewer](https://github.com/Carltk/TwoWireViewer)     | I2C bus analysis and debugging tool                          |
 
 ---
 
