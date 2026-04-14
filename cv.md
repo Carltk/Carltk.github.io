@@ -28,7 +28,7 @@ permalink: /cv/
 Go, Python, TypeScript, JavaScript, C++, Shell scripting
 
 **Web & Frontend**
-Svelte/SvelteKit, Vue.js, HTMX, Alpine.js, Tailwind CSS
+Go/Templ, HTMX, Alpine.js, Tailwind CSS
 
 **Database**
 SQL Server, Microsoft Access/Jet, SQLite
@@ -44,6 +44,9 @@ Docker, Linux system administration, Unraid NAS/server management, Proxmox virtu
 
 **Hardware & EDA**
 KiCad PCB design and schematic capture, embedded C firmware, serial and TCP/IP protocols
+
+**Test and Debug Tools**
+AccessDB schema update and editing tool, Internal protocol analysis tool, Test harnesses, Demo system simulator
 
 ### Legacy Systems (maintained)
 
